@@ -1,2 +1,2 @@
-สร้างไฟล์ b.txt
+สร้างไฟล์ b.txt ggdhw-
 อย่าลืม save ทั้ง 2 files
